@@ -6,7 +6,11 @@
   "tasks": {
     "node index.js": {
       "name": "start",
-      "command": "node index.js"
+      "command": "node index.js",
+      "runAtStart": true,
+      "preview": {
+        "port": 3000
+      }
     }
   }
 }
