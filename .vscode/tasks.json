@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "Live Preview",
+      "workspacePath": "C:\\Users\\allis\\OneDrive\\Desktop\\coding files\\grio project\\V1\\static",
+      "problemMatcher": [],
+      "label": "Live Preview: Run Server"
+    }
+  ]
+}

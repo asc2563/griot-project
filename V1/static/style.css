@@ -1,0 +1,55 @@
+html {
+  color: black;
+  background-color: rgb(152, 152, 152);
+}
+
+body {
+  background-image: url(./assets/images/seattle2.jpg);
+}
+
+#header {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  left: 0%;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  padding: 10px 20px;
+}
+
+#header2 {
+  background-color: rgb(189, 189, 189);
+  color: black;
+  text-align: center;
+  left: 0%;
+  position: fixed;
+  width: 100%;
+  top: 39px;
+  padding: 10px 20px;
+}
+
+a {
+  color: forestgreen;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+#map {
+  height: 600px;
+  width: 0px;
+  position: relative;
+  right: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  bottom: 20px;
+}
+
+#name_h1 {
+  color: black;
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+  font-size: 50px;
+  font-weight: bolder;
+}
