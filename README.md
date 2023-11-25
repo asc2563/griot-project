@@ -1,3 +1,3 @@
 # grio-project
-the grip project website.
+the griot project website.
 need I say more?
