@@ -1,3 +1,4 @@
 {
-  "vscode-taskviewexplorer.tasks.favorites": ["Live Preview\\Run Server"]
+  "vscode-taskviewexplorer.tasks.favorites": ["Live Preview\\Run Server"],
+  "editor.inlineSuggest.showToolbar": "onHover"
 }
